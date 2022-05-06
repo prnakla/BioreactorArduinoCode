@@ -11,16 +11,16 @@
 // take rx and tx digital pins out before uploading arduino code
 
 // DECLARE NEXTION OBJECTS - Example (page id = 0, component id = 1, component name = 'b0')
-NexSlider h0 = NexSlider(1, 1, "h0");
-NexSlider h1 = NexSlider(1, 2, "h1");
-NexSlider h2 = NexSlider(1, 3, "h2");
-NexSlider h3 = NexSlider(1, 4, "h3");
-NexSlider h4 = NexSlider(1, 5, "h4");
-NexSlider h5 = NexSlider(1, 1, "h5");
-NexSlider h6 = NexSlider(1, 2, "h6");
-NexSlider h7 = NexSlider(1, 3, "h7");
-NexSlider h8 = NexSlider(1, 4, "h8");
-NexSlider h9 = NexSlider(1, 5, "h9");
+  NexSlider h0 = NexSlider(1, 1, "h0");
+  NexSlider h1 = NexSlider(1, 2, "h1");
+  NexSlider h2 = NexSlider(1, 3, "h2");
+  NexSlider h3 = NexSlider(1, 4, "h3");
+  NexSlider h4 = NexSlider(1, 5, "h4");
+  NexSlider h5 = NexSlider(1, 1, "h5");
+  NexSlider h6 = NexSlider(1, 2, "h6");
+  NexSlider h7 = NexSlider(1, 3, "h7");
+  NexSlider h8 = NexSlider(1, 4, "h8");
+  NexSlider h9 = NexSlider(1, 5, "h9");
 
 NexText t7 = NexText(1, 14, "t7");
 NexText t8 = NexText(1, 15, "t8");
